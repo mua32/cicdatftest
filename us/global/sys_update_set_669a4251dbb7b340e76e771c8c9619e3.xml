@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-09-09 08:01:16">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</application>
+<application_name>CICDATFTest</application_name>
+<application_scope>global</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>CICDATFTest – 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>669a4251dbb7b340e76e771c8c9619e3</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 08:01:16</sys_created_on>
+<sys_id>deba4e95dbb7b340e76e771c8c9619f7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 08:01:16</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_de1b6223db53f300e76e771c8c9619cd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Open a new 'Incident' form</description><display_name>Open a New Form</display_name><inputs/><mugshots_cache_json/><notes/><order>2</order><snapshot/><step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:37:58</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>de1b6223db53f300e76e771c8c9619cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open a New Form</sys_name><sys_package display_value="CICDATFTest" source="568a2eefdb13f300e76e771c8c961910">568a2eefdb13f300e76e771c8c961910</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</sys_scope><sys_update_name>sys_atf_step_de1b6223db53f300e76e771c8c9619cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:37:58</sys_updated_on><table>incident</table><test display_value="CICD Test">70eaa223db53f300e76e771c8c9619f3</test><timeout/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=de1b6223db53f300e76e771c8c9619cd"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>de1b6223db53f300e76e771c8c9619cd</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:37:58</sys_created_on><sys_id>b22ba223db53f300e76e771c8c961933</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:37:58</sys_updated_on><value/><variable display_value="">27d4e1c25320220002c6435723dc3486</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>de1b6223db53f300e76e771c8c9619cd</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:37:58</sys_created_on><sys_id>b62ba223db53f300e76e771c8c961933</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:37:58</sys_updated_on><value>incident</value><variable display_value="">bb84ed825320220002c6435723dc3400</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>-955594650</payload_hash>
+<remote_update_set display_value="CICDATFTest – 1.0.0">deba4e95dbb7b340e76e771c8c9619f7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 08:01:16</sys_created_on>
+<sys_id>12ba4ad5dbb7b340e76e771c8c96197d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d150a15470000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 08:01:16</sys_updated_on>
+<table>incident</table>
+<target_name>Open a New Form</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>769ac6d5e8b7b3401f456018c5c9d4e1</update_guid>
+<update_guid_history>769ac6d5e8b7b3401f456018c5c9d4e1:-955594650,8b2ba2239353f300694c58d6c98d3034:-955594650</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_426b2623db53f300e76e771c8c961963</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Open the 'Incident' form with id '{{Step 4: Submit a Form.Record}}'</description><display_name>Open an Existing Record</display_name><inputs/><inputs/><mugshots_cache_json/><notes/><order>5</order><snapshot/><step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:39:09</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>426b2623db53f300e76e771c8c961963</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open an Existing Record</sys_name><sys_package display_value="CICDATFTest" source="568a2eefdb13f300e76e771c8c961910">568a2eefdb13f300e76e771c8c961910</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</sys_scope><sys_update_name>sys_atf_step_426b2623db53f300e76e771c8c961963</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:39:09</sys_updated_on><table>incident</table><test display_value="CICD Test">70eaa223db53f300e76e771c8c9619f3</test><timeout/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=426b2623db53f300e76e771c8c961963"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>426b2623db53f300e76e771c8c961963</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:39:09</sys_created_on><sys_id>5c7b2623db53f300e76e771c8c9619ff</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:39:09</sys_updated_on><value>incident</value><variable display_value="">b124164e53a0220002c6435723dc34c5</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>426b2623db53f300e76e771c8c961963</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:39:09</sys_created_on><sys_id>947b2623db53f300e76e771c8c9619ff</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:39:09</sys_updated_on><value/><variable display_value="">ad351a4e53a0220002c6435723dc34f0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>426b2623db53f300e76e771c8c961963</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:39:09</sys_created_on><sys_id>987b2623db53f300e76e771c8c9619ff</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:39:09</sys_updated_on><value/><variable display_value="">6e55da4e53a0220002c6435723dc34a0</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="id=426b2623db53f300e76e771c8c961963"/><sys_element_mapping action="INSERT_OR_UPDATE"><field>record_id</field><id>426b2623db53f300e76e771c8c961963</id><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:39:09</sys_created_on><sys_id>507b2623db53f300e76e771c8c9619ff</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:39:09</sys_updated_on><table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table><value>{{step['604b2a23db53f300e76e771c8c961912'].record_id}}</value></sys_element_mapping><sys_element_mapping action="INSERT_OR_UPDATE"><field>view</field><id>426b2623db53f300e76e771c8c961963</id><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:39:09</sys_created_on><sys_id>147b2623db53f300e76e771c8c9619ff</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:39:09</sys_updated_on><table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table><value/></sys_element_mapping></record_update>]]></payload>
+<payload_hash>-1236643925</payload_hash>
+<remote_update_set display_value="CICDATFTest – 1.0.0">deba4e95dbb7b340e76e771c8c9619f7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 08:01:16</sys_created_on>
+<sys_id>16ba4ad5dbb7b340e76e771c8c96197c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d150a14510000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 08:01:16</sys_updated_on>
+<table>incident</table>
+<target_name>Open an Existing Record</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>b29ac6d5b1b7b340145a6e333bde50d9</update_guid>
+<update_guid_history>b29ac6d5b1b7b340145a6e333bde50d9:-1236643925,547bea231a53f300613a19dab4f61614:-1236643925</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_928a2eefdb13f300e76e771c8c961937</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>cicdatftest_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:35:11</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>928a2eefdb13f300e76e771c8c961937</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cicdatftest_user</sys_name><sys_package display_value="CICDATFTest" source="568a2eefdb13f300e76e771c8c961910">568a2eefdb13f300e76e771c8c961910</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</sys_scope><sys_update_name>sys_user_role_928a2eefdb13f300e76e771c8c961937</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:35:11</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-1447843969</payload_hash>
+<remote_update_set display_value="CICDATFTest – 1.0.0">deba4e95dbb7b340e76e771c8c9619f7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 08:01:16</sys_created_on>
+<sys_id>1eba4ad5dbb7b340e76e771c8c96197d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d150a15a60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 08:01:16</sys_updated_on>
+<table/>
+<target_name>cicdatftest_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>7e9ac6d55db7b3405f0f5a11616f04e4</update_guid>
+<update_guid_history>7e9ac6d55db7b3405f0f5a11616f04e4:-1447843969,aefbaa632a53f300897bead945bb1fe6:-1447843969,9e8a2eef1313f3002e578840e94e2839:-1328061291</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_help_role_5ed2efbfdb9ff300e76e771c8c961922</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role display_value="devopsglobal_user" name="devopsglobal_user">d6d26fbfdb9ff300e76e771c8c9619dd</role><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-23 12:19:42</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>5ed2efbfdb9ff300e76e771c8c961922</sys_id><sys_mod_count>0</sys_mod_count><sys_name>d6d26fbfdb9ff300e76e771c8c9619dd</sys_name><sys_package display_value="CICDATFTest" source="568a2eefdb13f300e76e771c8c961910">568a2eefdb13f300e76e771c8c961910</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</sys_scope><sys_update_name>sys_embedded_help_role_5ed2efbfdb9ff300e76e771c8c961922</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-23 12:19:42</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+<payload_hash>2109993554</payload_hash>
+<remote_update_set display_value="CICDATFTest – 1.0.0">deba4e95dbb7b340e76e771c8c9619f7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 08:01:16</sys_created_on>
+<sys_id>5aba4ad5dbb7b340e76e771c8c96197d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d150a13f80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 08:01:16</sys_updated_on>
+<table/>
+<target_name>d6d26fbfdb9ff300e76e771c8c9619dd</target_name>
+<type>Embedded Help Role Priority</type>
+<update_domain>global</update_domain>
+<update_guid>b69ac6d5ceb7b340a03096c983006ad6</update_guid>
+<update_guid_history>b69ac6d5ceb7b340a03096c983006ad6:2109993554,51454f7cd52bb700c84f57f20c22c854:2109993554</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_983be623db53f300e76e771c8c961944</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Set the values on the form as follows:
+Short description = Test
+and Caller = Shubham Varshney</description><display_name>Set Field Values</display_name><inputs/><mugshots_cache_json/><notes/><order>3</order><snapshot/><step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:38:15</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>983be623db53f300e76e771c8c961944</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Set Field Values</sys_name><sys_package display_value="CICDATFTest" source="568a2eefdb13f300e76e771c8c961910">568a2eefdb13f300e76e771c8c961910</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</sys_scope><sys_update_name>sys_atf_step_983be623db53f300e76e771c8c961944</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:38:15</sys_updated_on><table>incident</table><test display_value="CICD Test">70eaa223db53f300e76e771c8c9619f3</test><timeout/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=983be623db53f300e76e771c8c961944"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>983be623db53f300e76e771c8c961944</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:38:15</sys_created_on><sys_id>173be623db53f300e76e771c8c961958</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:38:15</sys_updated_on><value>incident</value><variable display_value="">424ca6465320220002c6435723dc34b5</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>983be623db53f300e76e771c8c961944</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:38:15</sys_created_on><sys_id>1b3be623db53f300e76e771c8c961958</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:38:15</sys_updated_on><value>short_description=Test^caller_id=b4095f4edb122300e76e771c8c96191a^EQ</value><variable display_value="">b3dba2465320220002c6435723dc34f0</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>1273229003</payload_hash>
+<remote_update_set display_value="CICDATFTest – 1.0.0">deba4e95dbb7b340e76e771c8c9619f7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 08:01:16</sys_created_on>
+<sys_id>5eba4ad5dbb7b340e76e771c8c96197c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d150a15110000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 08:01:16</sys_updated_on>
+<table>incident</table>
+<target_name>Set Field Values</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>f29ac6d5e6b7b3406245f98d224491df</update_guid>
+<update_guid_history>f29ac6d5e6b7b3406245f98d224491df:1273229003,1f3be6233a53f3006f5016f00ce91759:1273229003</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_help_role_2486c389dbe3f700e76e771c8c96195e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role display_value="newcicdtest_user" name="newcicdtest_user">2486c389dbe3f700e76e771c8c96195c</role><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-27 07:28:17</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>2486c389dbe3f700e76e771c8c96195e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2486c389dbe3f700e76e771c8c96195c</sys_name><sys_package display_value="CICDATFTest" source="568a2eefdb13f300e76e771c8c961910">568a2eefdb13f300e76e771c8c961910</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</sys_scope><sys_update_name>sys_embedded_help_role_2486c389dbe3f700e76e771c8c96195e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-27 07:28:17</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+<payload_hash>-849010896</payload_hash>
+<remote_update_set display_value="CICDATFTest – 1.0.0">deba4e95dbb7b340e76e771c8c9619f7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 08:01:16</sys_created_on>
+<sys_id>96ba4ad5dbb7b340e76e771c8c96197d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d150a13d60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 08:01:16</sys_updated_on>
+<table/>
+<target_name>2486c389dbe3f700e76e771c8c96195c</target_name>
+<type>Embedded Help Role Priority</type>
+<update_domain>global</update_domain>
+<update_guid>729a425168b7b340afa3c3ee5965fce7</update_guid>
+<update_guid_history>729a425168b7b340afa3c3ee5965fce7:-849010896,b24077cad423bb0089b29b7d55c73680:-849010896</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_de8aeaefdb13f300e76e771c8c961909</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>CICDATFTest</name><order/><roles>cicdatftest_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:35:11</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>de8aeaefdb13f300e76e771c8c961909</sys_id><sys_mod_count>1</sys_mod_count><sys_name>CICDATFTest</sys_name><sys_overrides/><sys_package display_value="CICDATFTest" source="568a2eefdb13f300e76e771c8c961910">568a2eefdb13f300e76e771c8c961910</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</sys_scope><sys_update_name>sys_app_application_de8aeaefdb13f300e76e771c8c961909</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:35:11</sys_updated_on><title>CICDATFTest</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-1475761456</payload_hash>
+<remote_update_set display_value="CICDATFTest – 1.0.0">deba4e95dbb7b340e76e771c8c9619f7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 08:01:16</sys_created_on>
+<sys_id>96ba4e95dbb7b340e76e771c8c9619f8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d150a15d90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 08:01:16</sys_updated_on>
+<table/>
+<target_name>CICDATFTest</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>769ac6d598b7b3409bd7c7c7f63737e6</update_guid>
+<update_guid_history>769ac6d598b7b3409bd7c7c7f63737e6:-1475761456,9e8a2eefcf13f3005184087940902340:-1475761456,1e8a2eefa513f3007288c8525659f335:303608456</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_63fa2623db53f300e76e771c8c96195c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Impersonate the user: Abel Tuter with user Id: abel.tuter123</description><display_name>Impersonate</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:37:23</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>63fa2623db53f300e76e771c8c96195c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Impersonate</sys_name><sys_package display_value="CICDATFTest" source="568a2eefdb13f300e76e771c8c961910">568a2eefdb13f300e76e771c8c961910</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</sys_scope><sys_update_name>sys_atf_step_63fa2623db53f300e76e771c8c96195c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:37:23</sys_updated_on><table/><test display_value="CICD Test">70eaa223db53f300e76e771c8c9619f3</test><timeout/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=63fa2623db53f300e76e771c8c96195c"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>63fa2623db53f300e76e771c8c96195c</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:37:23</sys_created_on><sys_id>1e0b2623db53f300e76e771c8c9619f6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:37:23</sys_updated_on><value>38a5dedbdbe22300e76e771c8c96195b</value><variable display_value="">586e2c4253e0220002c6435723dc3415</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>1399751177</payload_hash>
+<remote_update_set display_value="CICDATFTest – 1.0.0">deba4e95dbb7b340e76e771c8c9619f7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 08:01:16</sys_created_on>
+<sys_id>9aba4ad5dbb7b340e76e771c8c96197c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d150a14ca0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 08:01:16</sys_updated_on>
+<table/>
+<target_name>Impersonate</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>729ac6d599b7b340a50628457a9651dd</update_guid>
+<update_guid_history>729ac6d599b7b340a50628457a9651dd:1399751177,260b26238d53f3001fdc10f00a64a9f8:1399751177</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_70eaa223db53f300e76e771c8c9619f3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Test</description><enable_parameterized_testing>false</enable_parameterized_testing><name>CICD Test</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:37:01</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>70eaa223db53f300e76e771c8c9619f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD Test</sys_name><sys_package display_value="CICDATFTest" source="568a2eefdb13f300e76e771c8c961910">568a2eefdb13f300e76e771c8c961910</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</sys_scope><sys_update_name>sys_atf_test_70eaa223db53f300e76e771c8c9619f3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:37:01</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=70eaa223db53f300e76e771c8c9619f3"/></record_update>]]></payload>
+<payload_hash>-49912194</payload_hash>
+<remote_update_set display_value="CICDATFTest – 1.0.0">deba4e95dbb7b340e76e771c8c9619f7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 08:01:16</sys_created_on>
+<sys_id>d2ba4ad5dbb7b340e76e771c8c96197d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d150a156f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 08:01:16</sys_updated_on>
+<table/>
+<target_name>CICD Test</target_name>
+<type>Test</type>
+<update_domain>global</update_domain>
+<update_guid>369ac6d50bb7b34024c96923626b81e3</update_guid>
+<update_guid_history>369ac6d50bb7b34024c96923626b81e3:-49912194,05fa2eef4f13f300da064c3888c8e491:-49912194</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_568a2eefdb13f300e76e771c8c961910</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="CICDATFTest">de8aeaefdb13f300e76e771c8c961909</menu><name>CICDATFTest</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>global</scope><scoped_administration>false</scoped_administration><short_description/><source>568a2eefdb13f300e76e771c8c961910</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:35:11</sys_created_on><sys_id>568a2eefdb13f300e76e771c8c961910</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:35:11</sys_updated_on><template/><trackable>true</trackable><user_role display_value="cicdatftest_user" name="cicdatftest_user">928a2eefdb13f300e76e771c8c961937</user_role><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>142131371</payload_hash>
+<remote_update_set display_value="CICDATFTest – 1.0.0">deba4e95dbb7b340e76e771c8c9619f7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 08:01:16</sys_created_on>
+<sys_id>d2ba4e95dbb7b340e76e771c8c9619f8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d150a13b50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 08:01:16</sys_updated_on>
+<table/>
+<target_name>CICDATFTest</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>b69a4251a9b7b340fa431444172cf8e5</update_guid>
+<update_guid_history>b69a4251a9b7b340fa431444172cf8e5:142131371,9a8a2eef4f13f300e10681355fdef73d:142131371</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_604b2a23db53f300e76e771c8c961912</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Submit the current form and confirm form submitted to server</description><display_name>Submit a Form</display_name><inputs/><mugshots_cache_json/><notes/><order>4</order><snapshot/><step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:38:22</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>604b2a23db53f300e76e771c8c961912</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Submit a Form</sys_name><sys_package display_value="CICDATFTest" source="568a2eefdb13f300e76e771c8c961910">568a2eefdb13f300e76e771c8c961910</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICDATFTest">568a2eefdb13f300e76e771c8c961910</sys_scope><sys_update_name>sys_atf_step_604b2a23db53f300e76e771c8c961912</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:38:22</sys_updated_on><table/><test display_value="CICD Test">70eaa223db53f300e76e771c8c9619f3</test><timeout/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=604b2a23db53f300e76e771c8c961912"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>604b2a23db53f300e76e771c8c961912</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 13:38:22</sys_created_on><sys_id>384b2a23db53f300e76e771c8c961943</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 13:38:22</sys_updated_on><value>form_submitted_to_server</value><variable display_value="">c796d40497302200abe4bb7503ac4ad8</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>-289896154</payload_hash>
+<remote_update_set display_value="CICDATFTest – 1.0.0">deba4e95dbb7b340e76e771c8c9619f7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-09 08:01:16</sys_created_on>
+<sys_id>d6ba4ad5dbb7b340e76e771c8c96197c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d150a14860000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-09 08:01:16</sys_updated_on>
+<table/>
+<target_name>Submit a Form</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>729ac6d538b7b3408d642c420b7a2cdb</update_guid>
+<update_guid_history>729ac6d538b7b3408d642c420b7a2cdb:-289896154,b84b2a23c253f3009db1149ca3ba1344:-289896154</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
